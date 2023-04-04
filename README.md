@@ -6,3 +6,5 @@ Corey Williams, James Richards, and Noe Angel from Chester County High School al
 We used images that our client gave us for our website. For a few low resolution pictures that needed to be scaled up, we used an AI to upscale the resolution so that they wouldn't look as blurry. 
 
 Corey: I personally found coding really fun and I definetly want to do more with it. 
+
+Noe: I liked putting images in the website!
