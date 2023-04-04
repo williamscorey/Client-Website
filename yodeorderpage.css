@@ -1,0 +1,126 @@
+
+body{
+    margin:0;
+    font-family:'Courier New', Courier, monospace;
+}
+html{
+    display:block;
+}
+
+nav li{
+    float:left;
+}
+
+
+nav ul{
+    list-style-type:none;
+    display:block;
+    overflow:hidden;
+}
+
+nav li a{
+    padding:14px 16px;
+    background-color: rgb(41,190,185,255);
+    text-align: center;
+    font-size:70px;
+    color:white;
+    text-decoration: none;
+    display:flex;
+    flex-direction:column;
+    text-align: center;
+}
+
+nav li h1{
+    background-color: palegoldenrod;
+    border-color:seagreen;
+    color:white;
+    background-color: rgb(41,190,185,255);
+    padding:6px 16px;
+    font-size:50px;
+}
+
+nav li a:hover {
+    background-color: #42dbc1;
+}
+
+nav{
+    border-color:rgb(41,190,185,255);
+    border-style: solid;
+    background-color:rgb(41,190,185,255);
+}
+
+h1{
+    font-size: 60px;
+    padding: 6;
+    margin: -5px 0px;
+    color:red;
+}
+a{
+    text-decoration: none;
+}
+body{ 
+    text-align: center;
+}
+h5{font-size: 30px;
+    border: black;
+    border-style: line;
+    float:none;
+}
+h3{
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+    padding: 15px 15px 450px 15px;
+    margin: 80px 300px;
+}
+h4{
+    
+    float: bottom;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid rgb(41,190,185,255);
+}
+input[type="text"]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+input[type="submit"] {
+    width: 100%;
+    background-color: #4caf50;
+    color: white;
+    padding: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background: color #45a049;
+}
+textarea{
+    resize: none;
+}
+#navbar {
+ color: none;
+
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #333;
+    color: white;
+    padding: 1px;
+}
+.scrolling-text-box{
+    height: 200px;
+    overflow: hidden;
+}
